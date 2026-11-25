@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shamim Wolf
 
-<!--
-**shamimwolf/shamimwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shopify Growth @ [Get Your Sales](https://getursales.com)**, Turning Shopify Stores Into Sales Machines.
 
-Here are some ideas to get you started:
+### What I work on
+- Premium Shopify store design and custom Liquid sections
+- Conversion rate optimization (CRO)
+- Meta, TikTok & Google Ads for e-commerce
+- Product research for Shopify brands
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+Shopify · Liquid · HTML · CSS · JavaScript · Klaviyo · Meta Ads · TikTok Ads · Google Ads
+
+### Let's talk
+- [getursales.com](https://getursales.com)
+- [Book a free strategy call](https://getursales.com/pages/book-a-call)
+
+### Find me on
+[Facebook](https://www.facebook.com/shamimwolf) · [Instagram](https://www.instagram.com/shamimwolf) · [Threads](https://www.threads.net/@shamimwolf) · [TikTok](https://www.tiktok.com/@shamimwolf) · [X](https://x.com/shamimwolf) · [YouTube](https://www.youtube.com/@shamimwolf) · [LinkedIn](https://www.linkedin.com/in/shamimwolf)
